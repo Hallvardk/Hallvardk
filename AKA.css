@@ -1,0 +1,14 @@
+body {
+  background-color: gray;
+}
+h1 {
+  color: orange;
+}
+p {
+  color: hvite;
+}
+hr {
+  height: 2px;
+  background-color: orange;
+  border: none;
+}
