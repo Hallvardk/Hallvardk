@@ -1,5 +1,5 @@
 body {
-  background-color: gray;
+  background-color: white;
 }
 h1 {
   color: orange;
@@ -8,7 +8,7 @@ p {
   color: hvite;
 }
 hr {
-  height: 2px;
+  height: 3px;
   background-color: orange;
   border: none;
 }
